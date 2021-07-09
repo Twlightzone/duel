@@ -1,1 +1,1 @@
-# duel
+DUEL
